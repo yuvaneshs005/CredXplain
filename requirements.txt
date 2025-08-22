@@ -1,0 +1,16 @@
+pandas
+numpy
+yfinance
+pandas-datareader
+feedparser
+textblob
+vaderSentiment
+scikit-learn
+shap
+streamlit
+plotly
+matplotlib
+requests
+ratelimit
+beautifulsoup4
+
